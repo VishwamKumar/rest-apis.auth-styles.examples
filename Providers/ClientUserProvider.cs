@@ -1,5 +1,5 @@
 ﻿
-namespace WeatherApp.RestApi.OAuth2.Providers;
+namespace WeatherApp.RestApi.OAuth2Duende.Providers;
 public static class ClientUserProvider
 {
     public static List<TestUser> GetTestUsers()

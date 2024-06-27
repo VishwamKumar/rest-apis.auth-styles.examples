@@ -2,7 +2,7 @@
 
 ## Description
 A Weather application with various API Auth implementations.
-This example is basic implementation of OAuth2 Authentication 
+This example is basic implementation of OAuth2 Authentication using Duende Identity Server
 
 # Authors
 

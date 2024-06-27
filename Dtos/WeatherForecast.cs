@@ -1,4 +1,4 @@
-namespace WeatherApp.RestApi.OAuth2.Dtos
+namespace WeatherApp.RestApi.OAuth2Duende.Dtos
 {
     public class WeatherForecastDto
     {

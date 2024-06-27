@@ -1,4 +1,4 @@
-﻿namespace WeatherApp.RestApi.OAuth2.Providers;
+﻿namespace WeatherApp.RestApi.OAuth2Duende.Providers;
 
 public static class RSAKeyProvider
 {

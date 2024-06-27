@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "WeatherApp.RestApi.OAuth2": {
+    "WeatherApp.RestApi.OAuth2Duende": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

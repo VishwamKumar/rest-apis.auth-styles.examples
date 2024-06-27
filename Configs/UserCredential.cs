@@ -1,4 +1,4 @@
-﻿namespace WeatherApp.RestApi.OAuth2.Configs;
+﻿namespace WeatherApp.RestApi.OAuth2Duende.Configs;
 
 public class UserCredential
 {

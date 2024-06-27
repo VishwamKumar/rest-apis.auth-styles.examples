@@ -1,5 +1,5 @@
 
-namespace WeatherApp.RestApi.OAuth2.Controllers;
+namespace WeatherApp.RestApi.OAuth2Duende.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
