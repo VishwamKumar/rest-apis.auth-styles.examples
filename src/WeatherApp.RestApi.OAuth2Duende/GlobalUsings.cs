@@ -12,7 +12,7 @@ global using Duende.IdentityServer.Models;
 global using System.Security.Cryptography;
 global using WeatherApp.RestApi.OAuth2Duende.Providers;
 global using Duende.IdentityServer.Test;
-global using IdentityModel;
+global using Duende.IdentityModel;
 global using System.Security.Claims;
 
 
