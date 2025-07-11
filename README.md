@@ -1,6 +1,6 @@
-# 🌦️ Weather App - REST API Auth Examples (Layered Architecture)
+# 🌦️ Weather App - REST API Auth Examples 
 
-This repository demonstrates various **authentication strategies** implemented in a simple Weather API using **Layered Architecture** with ASP.NET Core. Each project is built independently to showcase a specific auth mechanism, making it easier for developers to learn and compare implementation patterns.
+This repository demonstrates various **authentication strategies** implemented in a simple Weather API using simple Layered Architecture with ASP.NET Core. Each project is built independently to showcase a specific auth mechanism, making it easier for developers to learn and compare implementation patterns.
 
 ---
 
