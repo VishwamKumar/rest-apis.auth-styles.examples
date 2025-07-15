@@ -52,12 +52,12 @@ You can replace JwtAuth with any of the other auth project folders.
 
 ## Structure
 
-weather-app.rest-apis.layered/
-├── WeatherApp.RestApi.ApiKeyAuth/
-├── WeatherApp.RestApi.BasicAuth/
-├── WeatherApp.RestApi.JwtAuth/
-├── WeatherApp.RestApi.JwtAuthIdentity/
-└── WeatherApp.RestApi.OAuth2Duende/
+    weather-app.rest-apis.layered/
+    ├── WeatherApp.RestApi.ApiKeyAuth/
+    ├── WeatherApp.RestApi.BasicAuth/
+    ├── WeatherApp.RestApi.JwtAuth/
+    ├── WeatherApp.RestApi.JwtAuthIdentity/
+    └── WeatherApp.RestApi.OAuth2Duende/
 
 ## License
 
